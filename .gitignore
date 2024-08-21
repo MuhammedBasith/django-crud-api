@@ -1,0 +1,6 @@
+.venv
+.pytest_cache
+drinks/__pycache__
+drinks/migrations
+foods/__pycache__
+foods/migrations
